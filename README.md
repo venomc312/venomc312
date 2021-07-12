@@ -1,4 +1,4 @@
-|![VenomC312's github stats](https://github-readme-stats.vercel.app/api?username=venomc312&count_private=true&show_icons=true&theme=radical&disable_animations=true&include_all_commits=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venomc312&count_private=true&theme=radical&langs_count=10&layout=compact)|
+|![VenomC312's github stats](https://github-readme-stats.vercel.app/api?username=venomc312&count_private=true&show_icons=true&theme=radical&disable_animations=false&include_all_commits=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venomc312&count_private=true&theme=radical&langs_count=10&layout=compact)|
 |:-:|:-:|
 
 <!---
