@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venomc312)](https://github.com/anuraghazra/github-readme-stats)
+|![VenomC312's github stats](https://github-readme-stats.vercel.app/api?username=venomc312&count_private=true&show_icons=true&theme=dracula&disable_animations=true&include_all_commits=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venomc312&theme=dracula&langs_count=10&layout=compact)|
+|:-:|:-:|
 
 <!---
 venomc312/venomc312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
